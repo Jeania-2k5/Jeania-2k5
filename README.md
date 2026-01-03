@@ -1,5 +1,7 @@
 # Hi I am Jeania a Tech Student
- hii i am currently a CS student.
+ CS student | Learning by building
+
+Interested in software development, problem-solving, and turning concepts into real projects. Actively improving programming fundamentals and system understanding.
 
 
 ## 🌐 Socials:
